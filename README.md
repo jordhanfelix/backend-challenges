@@ -1,13 +1,5 @@
 # Backend Challenges
 
-![Last Commit Date Shield Badge](https://img.shields.io/github/last-commit/CollabCodeTech/backend-challenges?color=F25A70&logo=github&style=for-the-badge)
-![Contributors Shield Badge](https://img.shields.io/github/contributors-anon/CollabCodeTech/backend-challenges?color=F25A70&logo=github&style=for-the-badge)
-<a href="https://bit.ly/discord_collabcode"><img src="https://img.shields.io/discord/462784660829896714?color=F25A70&label=Join%20Collabcode%20Discord&logo=discord&logoColor=F25A70&style=for-the-badge" alt="Join CollabCode's Discord"/></a>
-
-Want to test your knowledge using real jobs challenges? Here is a public list of open-source challenges from jobs around the world.
-
-Feel free to contribute! Only open-source challenges please!
-
 | | Company | Stack | Test
 |--|--|--|--
 | :gibraltar: | [Addison Global - 1](http://www.addisongloballtd.com/) | Java or Scala, Any Framework & REST API | [Code →](https://github.com/addisonglobal/backend-technical-test)
@@ -82,7 +74,7 @@ Feel free to contribute! Only open-source challenges please!
 
 ## Inspiration
 
-Inspired on [Felipe Fialho](https://github.com/felipefialho)'s [frontend-challenges](https://github.com/felipefialho/frontend-challenges). Kudos!
+Based on the challenges posted on the profile [Collab code tech](https://github.com/CollabCodeTech)
 
 ## License
 
