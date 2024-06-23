@@ -1,7 +1,7 @@
 # Backend Challenges
 
-| | Company | Stack | Test
-|--|--|--|--
+| | Company | Stack | Test  |  Status  | 
+|--|--|--|--|--
 | :gibraltar: | [Addison Global - 1](http://www.addisongloballtd.com/) | Java or Scala, Any Framework & REST API | [Code →](https://github.com/addisonglobal/backend-technical-test)
 | :gibraltar: | [Addison Global - 2](http://www.addisongloballtd.com/) | Java 8+, Akka HTTP or Spring Boot & REST API | [Code →](https://github.com/addisonglobal/java8-technical-test)
 | :kenya: | [Africa's Talking - 1](https://africastalking.com/) | Scala, Regex | [Code →](https://github.com/AfricasTalkingTalent/BackendCodeChallengeSeptember2018)
